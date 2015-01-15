@@ -1,0 +1,5 @@
+nickname: nickname
+realname: realname
+server: example.com
+port: 6667
+#password: PasswordIfThereIsOne
